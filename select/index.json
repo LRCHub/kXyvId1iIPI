@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "0120お助け屋さん",
+  "base_artist": "≒JOY",
+  "createdAt": "2025-12-14T12:04:09.702888Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "0120お助け屋さん",
+      "artist": "≒JOY",
+      "has_synced": true,
+      "path": "select/01_0120お助け屋さん_≒JOY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "0120お助け屋さん (instrumental)",
+      "artist": "≒JOY",
+      "has_synced": true,
+      "path": "select/02_0120お助け屋さん_(instrumental)_≒JOY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "0120お助け屋さん",
+      "artist": "≒JOY",
+      "has_synced": false,
+      "path": "select/pl_01_0120お助け屋さん_≒JOY.txt"
+    }
+  ]
+}
